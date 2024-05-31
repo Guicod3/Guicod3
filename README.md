@@ -46,4 +46,4 @@ Feito totalmente em python, projeto focado em me atualizar durante o dia sobre a
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?Guicod3&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guicod3&show_icons=true&theme=radical)
