@@ -40,7 +40,7 @@ Feito totalmente em python, projeto focado em me atualizar durante o dia sobre a
 
 ## Contato
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/guilhermemiranda12/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/guilhermemiranda12/)
 - Email: [guilmiranda50@gmail.com](mailto:guilmiranda50@gmail.com)
 - Mais detalhes: [Currículo](https://docs.google.com/document/d/18S5XlJ2guj16Cps2cl5hcjxi2FxqOS78/edit?usp=sharing&ouid=115475211786118434332&rtpof=true&sd=true)
 
