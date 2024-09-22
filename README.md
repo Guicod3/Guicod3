@@ -27,7 +27,7 @@ Projeto idealizado para receber cadastro de usuários visando o envio de uma fut
 - EJS
 - PostgresSQL
 
-### [SpotRank](https://guicod3.github.io/Calculadora/index001](https://spot-rank.vercel.app)
+### [SpotRank](https://spot-rank.vercel.app)
 Projeto feito para consumir a API do Spotify e ranquear os artistas pelo número de seguidores.
 #### Tecnologias Usadas:
 - javascript
