@@ -7,7 +7,7 @@ Olá! Meu nome é Guilherme Miranda, tenho 22 anos e sou do ABC paulista. Sou de
 ## 📚 Projetos
 
 ### [E-Commerce Flow](ecommerceflow.vercel.app)
-O E-Commerce Flow é uma aplicação web criada para facilitar a geração de cadastros e anúncios para marketplaces.
+O E-Commerce Flow é uma aplicação web criada para facilitar a geração de cadastros e anúncios para marketplaces utilizando AI.
 #### Tecnologias Usadas:
 - Langchain
 - Gemini AI
