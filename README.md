@@ -6,6 +6,18 @@ Olá! Meu nome é Guilherme Miranda, tenho 22 anos e sou do ABC paulista. Sou de
 
 ## 📚 Projetos
 
+### [E-Commerce Flow](ecommerceflow.vercel.app)
+O E-Commerce Flow é uma aplicação web criada para facilitar a geração de cadastros e anúncios para marketplaces.
+#### Tecnologias Usadas:
+- Langchain
+- Gemini AI
+- Zod
+- javascript
+- NodeJS
+- Express
+- TailwindCSS
+- Dotenv
+
 ### [Cadastro em Newsletter](https://github.com/Guicod3/Newsletter_Registration)
 Projeto idealizado para receber cadastro de usuários visando o envio de uma futura Newsletter, com gerenciamento direto na plataforma dos usuários cadastrados. 
 #### Tecnologias Usadas:
@@ -13,18 +25,19 @@ Projeto idealizado para receber cadastro de usuários visando o envio de uma fut
 - NodeJS
 - Express
 - EJS
+- PostgresSQL
 
-### [Calculadora](https://guicod3.github.io/Calculadora/index001)
-Projeto idealizado para estudo visando um website estático contendo uma calculadora estilizada no estilo desenho.
-
+### [SpotRank](https://guicod3.github.io/Calculadora/index001](https://spot-rank.vercel.app)
+Projeto feito para consumir a API do Spotify e ranquear os artistas pelo número de seguidores.
 #### Tecnologias Usadas:
 - javascript
-- HTML
-- CSS
+- NodeJS
+- Express
+- TailwindCSS
+- Dotenv
 
 ### [Atualização Diária](https://github.com/Guicod3/ProjetoAtualizacaoDiaria/blob/main/index.py)
 Feito totalmente em python, projeto focado em me atualizar durante o dia sobre alguns temas. Aplicação criada em Python visando o consumo de Apis com o método GET, junto de alguns módulos externos.
-
 #### Tecnologias Usadas:
 - Python
 - Json
@@ -37,12 +50,16 @@ Feito totalmente em python, projeto focado em me atualizar durante o dia sobre a
 - Python
 - NodeJS
 - HTML e CSS
+- TailwindCSS
+- Express
+- PostgresSQL
+- Langchain
 
 ## Contato
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/guilhermemiranda12/)
 - Email: [guilmiranda50@gmail.com](mailto:guilmiranda50@gmail.com)
-- Mais detalhes: [Currículo](https://docs.google.com/document/d/18S5XlJ2guj16Cps2cl5hcjxi2FxqOS78/edit?usp=sharing&ouid=115475211786118434332&rtpof=true&sd=true)
+- Mais detalhes: [Currículo](https://docs.google.com/document/d/1fpxWLNJGqaDIFvvpcjjyvR9DPf3eRd0Cq83pkG7Z_zg/edit?usp=sharing)
 
 ## Estatísticas do GitHub
 
